@@ -1,4 +1,4 @@
-Here’s a `README.md` file for your weather application:
+Here’s a `README.md` file for  weather application:
 
 ---
 
